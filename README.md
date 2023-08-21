@@ -3,6 +3,8 @@ The colab jupyter notebook used in SDIC individual project
 
 It is highly recommended to view in Google Colab platform, you can directly visit it by clicking the blue buttom "open in colab" on the top of 'spectrum_prediction.ipynb' file. There are some viewing problem in Github page.
 
+Since the git repo is private, the link above 'spectrum_prediction' may not work, an alternative approach to visit it is through the colab link I have provided in the project dissertation, which is attached alongside with github link.
+
 
 There are in total 8 parts in the 'spectrum_prediction.ipynb': 'package import', and 'part 0' to 'part 7'. While part 0 to part 7 can all be executed independently, you have to run 'package import' section everytime, since it install and import essential packages to be used in rest of notebook.
 
